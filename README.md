@@ -237,3 +237,4 @@ A Queue is a linear structure which follows a particular order in which the oper
     }
   }
 ```
+[^1]: By Michael Damoah - 2021
