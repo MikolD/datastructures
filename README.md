@@ -3,7 +3,7 @@ Data Structures Concepts Implemented in Java
 
 * You must have Java installed on your system
 * To run the files compile them first eg: javac Queues.java and then run java Queues.java to run the file
-** PS - Switch the branch to master to view files
+*  PS - Switch the branch to master to view files
 
 ## Singly Linked List
 Singly linked list can be defined as the collection of ordered set of elements. The number of elements may vary according to need of the program. A node in the singly linked list consist of two parts: data part and link part. Data part of the node stores actual information that is to be represented by the node while the link part of the node stores the address of its immediate successor.
