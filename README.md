@@ -1,7 +1,7 @@
 # Data Structures Concepts
 Data Structures Concepts Implemented in Java
 
-* You must Java installed on your system
+* You must have Java installed on your system
 * To run the files compile them first eg: javac Queues.java and then run java Queues.java to run the file
 
 ## Singly Linked List
